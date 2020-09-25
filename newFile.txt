@@ -1,1 +1,3 @@
 This is my new text file for minilab 4
+This is a new line of text
+this is a second line of text lol ...
